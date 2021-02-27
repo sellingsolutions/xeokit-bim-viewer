@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+      "id": "hmb",
+      "name": "Test"
+    },
+    {
       "id": "Duplex",
       "name": "Duplex"
     },
