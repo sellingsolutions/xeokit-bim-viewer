@@ -1,10 +1,6 @@
 {
   "projects": [
     {
-      "id": "hmb",
-      "name": "Test"
-    },
-    {
       "id": "Duplex",
       "name": "Duplex"
     },
@@ -27,6 +23,10 @@
     {
       "id": "Systhema",
       "name": "Systhema Test Model"
+    },
+    {
+      "id": "Testing",
+      "name": "Testing"
     },
     {
       "id": "WaterLock",
