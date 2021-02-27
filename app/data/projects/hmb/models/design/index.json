@@ -1,0 +1,13 @@
+{
+  "id": "hmb",
+  "name": "Test",
+  "models": [
+    {
+      "id": "design",
+      "name": "Test Model"
+    }
+  ],
+  "viewerContent": {
+    "modelsLoaded": ["design"]
+  }
+}
